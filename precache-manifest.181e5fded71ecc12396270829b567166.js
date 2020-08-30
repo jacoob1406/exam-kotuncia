@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ca55c8935433856b8931298df6eeb651",
+    "revision": "8269c07d99ef6ce4afa243296222f8d8",
     "url": "/exam-kotuncia/index.html"
   },
   {
-    "revision": "afcee2d9bea581fdea22",
-    "url": "/exam-kotuncia/static/css/main.6318d0d9.chunk.css"
+    "revision": "0d160e66af1a10270a4a",
+    "url": "/exam-kotuncia/static/css/main.7be5aeb2.chunk.css"
   },
   {
     "revision": "43ec451d0fd8693ff0ba",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/exam-kotuncia/static/js/2.fb568156.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "afcee2d9bea581fdea22",
+    "revision": "0d160e66af1a10270a4a",
     "url": "/exam-kotuncia/static/js/main.1a4348b5.chunk.js"
   },
   {

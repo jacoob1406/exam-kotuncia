@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/exam-kotuncia/static/css/main.6318d0d9.chunk.css",
+    "main.css": "/exam-kotuncia/static/css/main.7be5aeb2.chunk.css",
     "main.js": "/exam-kotuncia/static/js/main.1a4348b5.chunk.js",
     "main.js.map": "/exam-kotuncia/static/js/main.1a4348b5.chunk.js.map",
     "runtime-main.js": "/exam-kotuncia/static/js/runtime-main.dea1d0b1.js",
@@ -8,15 +8,15 @@
     "static/js/2.fb568156.chunk.js": "/exam-kotuncia/static/js/2.fb568156.chunk.js",
     "static/js/2.fb568156.chunk.js.map": "/exam-kotuncia/static/js/2.fb568156.chunk.js.map",
     "index.html": "/exam-kotuncia/index.html",
-    "precache-manifest.d8fc796835377a2df288260704e61ac7.js": "/exam-kotuncia/precache-manifest.d8fc796835377a2df288260704e61ac7.js",
+    "precache-manifest.181e5fded71ecc12396270829b567166.js": "/exam-kotuncia/precache-manifest.181e5fded71ecc12396270829b567166.js",
     "service-worker.js": "/exam-kotuncia/service-worker.js",
-    "static/css/main.6318d0d9.chunk.css.map": "/exam-kotuncia/static/css/main.6318d0d9.chunk.css.map",
+    "static/css/main.7be5aeb2.chunk.css.map": "/exam-kotuncia/static/css/main.7be5aeb2.chunk.css.map",
     "static/js/2.fb568156.chunk.js.LICENSE.txt": "/exam-kotuncia/static/js/2.fb568156.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dea1d0b1.js",
     "static/js/2.fb568156.chunk.js",
-    "static/css/main.6318d0d9.chunk.css",
+    "static/css/main.7be5aeb2.chunk.css",
     "static/js/main.1a4348b5.chunk.js"
   ]
 }

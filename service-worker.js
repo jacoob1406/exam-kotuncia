@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/exam-kotuncia/precache-manifest.d8fc796835377a2df288260704e61ac7.js"
+  "/exam-kotuncia/precache-manifest.181e5fded71ecc12396270829b567166.js"
 );
 
 self.addEventListener('message', (event) => {
