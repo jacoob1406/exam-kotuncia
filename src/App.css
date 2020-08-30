@@ -1,0 +1,46 @@
+.appHeader {
+  text-align: center;
+  padding: 10px;
+  font-size: 2rem;
+}
+
+.notAnswered {
+  padding: 10px 25px;
+  font-weight: 100;
+  font-size: 0.5rem;
+}
+
+.notAnswered p {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contentContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+}
+
+.score {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.repeat {
+  font-size: 1rem;
+  padding: 0 15px;
+}
+
+.reset {
+  margin: 0 auto;
+  background-color: #034c8c;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 4px;
+}
+
+.reset:hover {
+  color: #d9b07e;
+}
